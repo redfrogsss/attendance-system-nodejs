@@ -60,7 +60,7 @@ Wait a minutes and open [http://localhost:3000](http://localhost:3000) with your
 
 ## Learn More
 
-This is a Individual project built by [Jacky Fan](https://github.com/redfrogsss) in 2021 for the Course AST20201 Web Programming. 
+This is a Individual Assignment Project built by [Jacky Fan](https://github.com/redfrogsss) in 2021 for the Course AST20201 Web Programming. 
 
 The following tech is used in this project.
 - [ExpressJS](https://expressjs.com/) - the backend solutions of this project.
