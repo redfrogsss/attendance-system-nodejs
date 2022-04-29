@@ -1,5 +1,6 @@
 # Student Attendance Management System (SAMS)
 SAMS - a Student Attendance Management System built with [ExpressJS](https://expressjs.com/), [Bootstrap](https://getbootstrap.com/), [JQuery](https://jquery.com/) and [MySQL](https://www.mysql.com/).
+
 This is the `ExpressJS` version of this project.
 
 ![Alt text](./readme-img/01.png "Login Page")
