@@ -1,0 +1,22 @@
+version: "3"
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+  db:
+    image: mysql/mysql-server:8.0
+    restart: unless-stopped
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: sams
+      MYSQL_USER: sams
+      MYSQL_PASSWORD: sams
+    volumes:
+      - dbdata:/var/lib/mysql
+      - ./my.conf:/etc/mysql/my.cnf
+      - ./db/:/docker-entrypoint-initdb.d
+volumes:
+  dbdata:
