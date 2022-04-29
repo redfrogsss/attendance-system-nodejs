@@ -64,7 +64,7 @@ This is a Individual Assignment Project built by [Jacky Fan](https://github.com/
 
 The following tech is used in this project.
 - [ExpressJS](https://expressjs.com/) - the backend solutions of this project.
-- [Bootstrap](https://chakra-ui.com/) - the UI solutions of this project.
+- [Bootstrap](https://getbootstrap.com/) - the UI solutions of this project.
 - [JQuery](https://jquery.com/) - the client-side programming solutions of this project.
 - [MySQL](https://www.mysql.com/) - the database of this project.
 
