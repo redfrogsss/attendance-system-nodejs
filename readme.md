@@ -12,7 +12,7 @@ This is the `ExpressJS` version of this project.
 ![Alt text](./readme-img/07.png "Student Attendance Page")
 ![Alt text](./readme-img/08.png "Attendance History Page")
 
-## Getting Started with `docker-compose`
+## Get Started
 
 To start with, you must install [Docker](https://www.docker.com/products/docker-desktop) and [docker-compose](https://docs.docker.com/compose/) on your computer.
 
@@ -67,5 +67,3 @@ The following tech is used in this project.
 - [Bootstrap](https://getbootstrap.com/) - the UI solutions of this project.
 - [JQuery](https://jquery.com/) - the client-side programming solutions of this project.
 - [MySQL](https://www.mysql.com/) - the database of this project.
-
-You can check out [my dirty code in Github](https://github.com/redfrogsss/selfremind) - your feedback are welcome!
